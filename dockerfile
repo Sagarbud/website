@@ -1,1 +1,1 @@
-FROM sagarbud/latest
+FROM sagarbud/apacheimage
